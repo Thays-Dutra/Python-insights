@@ -4,6 +4,7 @@ Este projeto visa analisar o cancelamento de clientes de uma empresa com mais de
 O objetivo é entender os fatores que contribuem para o cancelamento de clientes e identificar ações para reduzir essa taxa.
 
 💻 Tecnologias Utilizadas
+
 - Python para a análise de dados.
 - Pandas para manipulação de dados.
 - Plotly para visualização interativa dos dados.
@@ -13,7 +14,8 @@ O objetivo é entender os fatores que contribuem para o cancelamento de clientes
 - Nbformat para trabalhar com notebooks Jupyter.
 
 📝 Descrição do Código
-O código realiza a leitura e análise de um conjunto de dados sobre cancelamentos de clientes. Os principais passos incluem:
+
+O código realiza a leitura e análise de um conjunto de dados sobre cancelamentos de clientes. 
 - Limpeza de Dados: Remoção de valores nulos e colunas desnecessárias.
 - Análise Exploratória: Contagem e normalização das categorias de cancelamento.
 - Visualização: Geração de gráficos interativos para análise das variáveis que impactam o cancelamento,
