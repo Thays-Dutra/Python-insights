@@ -12,6 +12,8 @@
 - NumPy para operações matemáticas e estatísticas.
 - IPython para um ambiente interativo de execução do código.
 - Nbformat para trabalhar com notebooks Jupyter.
+  
+👉 [Clique aqui para acessar a análise no Colab](https://colab.research.google.com/drive/1WDJ4SxoDOZqYAc33PYVK2uiyH73PLCMj?usp=sharing)
 
 📝 Descrição do Código
 
@@ -21,5 +23,5 @@
 - Visualização: Geração de gráficos interativos para análise das variáveis que impactam o cancelamento,
   como idade, frequência de uso, ligações ao call center, entre outros.
 
-
+ 
 👩🏻‍💻 Thays Dutra|✉︎ karllathaysk@gmail.com
