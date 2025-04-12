@@ -1,0 +1,7 @@
+pandas
+openpyxl
+numpy
+nbformat
+ipykernel
+plotly
+IPython
