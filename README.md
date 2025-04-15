@@ -21,9 +21,7 @@
 - Visualização: Geração de gráficos interativos para análise das variáveis que impactam o cancelamento,
   como idade, frequência de uso, ligações ao call center, entre outros.
 
-🔗 Acesse a versão interativa no Google Colab  
+🔗 Acesse a versão interativa no Google Colab, Apresenta todos os gráficos de forma interativa e completa
 📎 [Clique aqui para abrir no Colab](https://colab.research.google.com/drive/1x1654jlPNlRvvJfuT4j774-ShAS_8UjX?usp=sharing)
-OBS: A versão do Colab apresenta todos os gráficos de forma interativa e completa,
-Em ambientes locais, pode haver limitações na renderização dos gráficos.
  
 👩🏻‍💻 Thays Dutra|✉︎ karllathaysk@gmail.com
