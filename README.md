@@ -12,7 +12,10 @@
 - NumPy para operações matemáticas e estatísticas.
 - IPython para um ambiente interativo de execução do código.
 - Nbformat para trabalhar com notebooks Jupyter.
-
+  
+🔗 Acesse a versão interativa no Google Colab, Apresenta todos os gráficos de forma interativa e completa.
+📎 [Clique para abrir no Colab](https://colab.research.google.com/drive/1x1654jlPNlRvvJfuT4j774-ShAS_8UjX?usp=sharing)
+ 
 📝 Descrição do Código
 
  O código realiza a leitura e análise de um conjunto de dados sobre cancelamentos de clientes. 
@@ -20,8 +23,5 @@
 - Análise Exploratória: Contagem e normalização das categorias de cancelamento.
 - Visualização: Geração de gráficos interativos para análise das variáveis que impactam o cancelamento,
   como idade, frequência de uso, ligações ao call center, entre outros.
-
-🔗 Acesse a versão interativa no Google Colab, Apresenta todos os gráficos de forma interativa e completa
-📎 [Clique aqui para abrir no Colab](https://colab.research.google.com/drive/1x1654jlPNlRvvJfuT4j774-ShAS_8UjX?usp=sharing)
  
 👩🏻‍💻 Thays Dutra|✉︎ karllathaysk@gmail.com
