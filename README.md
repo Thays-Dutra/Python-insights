@@ -13,7 +13,7 @@
 - IPython para um ambiente interativo de execução do código.
 - Nbformat para trabalhar com notebooks Jupyter.
   
-🔗 Acesse a versão interativa no Google Colab, Apresenta todos os gráficos de forma interativa e completa.
+🔗 Versão Colab, Gráficos Completos.
 📎 [Clique para abrir no Colab](https://colab.research.google.com/drive/1x1654jlPNlRvvJfuT4j774-ShAS_8UjX?usp=sharing)
  
 📝 Descrição do Código
