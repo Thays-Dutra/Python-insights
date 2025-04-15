@@ -1,8 +1,6 @@
 # lendo Base de Dados
 import pandas as pd
 from IPython.display import display
-from google.colab import files
-files.upload() 
 
 # lendo base
 tabela = pd.read_csv("cancelamentos_sample.csv")
