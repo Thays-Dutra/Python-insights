@@ -1,6 +1,8 @@
-# lendo base de dados
-import pandas as pd 
+# lendo Base de Dados
+import pandas as pd
 from IPython.display import display
+from google.colab import files
+files.upload() 
 
 # lendo base
 tabela = pd.read_csv("cancelamentos_sample.csv")
@@ -18,16 +20,16 @@ display(tabela["cancelou"].value_counts(normalize=True))
 # gráficos
 import plotly.express as px
 import plotly.io as pio
-pio.renderers.default = "browser"  # garante que os gráficos abram
+pio.renderers.default = "browser"  # abrir
 
 for coluna in tabela.columns:              
     grafico = px.histogram(
         tabela,
-        x=coluna,
+        x=coluna,                
         color="cancelou",
         text_auto=True,
         color_discrete_map={
-            "Sim": "#D8BFD8",
+            "Sim": "#D8BFD8",   # cores
             "Não": "#98FB98"  
         }
     )
